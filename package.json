@@ -1,0 +1,19 @@
+{
+  "name": "whats-my-ip",
+  "version": "1.0.0",
+  "description": "Damm simple whats my ip service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillemsalas/whats-my-ip.git"
+  },
+  "author": "Guillem Salas <guillemsalas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guillemsalas/whats-my-ip/issues"
+  },
+  "homepage": "https://github.com/guillemsalas/whats-my-ip#readme"
+}
